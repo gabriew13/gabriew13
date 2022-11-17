@@ -2,6 +2,8 @@
 
   Cursando Análise e Desenvolvimento de Sistemas na Uninove - Memorial.
   
+  ##
+  
   <div>
     <a href="https://github.com/gabriew13">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gabriew13&show_icons=true&theme=apprentice&include_all_commits=true&count_private=true"/>
@@ -15,5 +17,7 @@
     <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
     <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
+  
+  ##
 
  ![Snake animation](https://github.com/gabriew13/gabriew13/blob/output/github-contribution-grid-snake.svg)
